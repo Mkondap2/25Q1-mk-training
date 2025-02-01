@@ -1,0 +1,1 @@
+echo "Welcome to Magnetar 2025Q1 Devops Cloud Engineer Training"
